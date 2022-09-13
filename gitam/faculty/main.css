@@ -36,7 +36,7 @@
     overflow-x:auto
 }
 .committee-images table{
-    border-spacing: 10px;
+    border-spacing: 5px;
     border-collapse: separate;
 }
 .committee-images table td{
@@ -44,7 +44,7 @@
     text-align: left;
 }
 .committee-images table td img{
-    width: 140px ; 
+    height: 140px ; 
 }
 
 #fact{
