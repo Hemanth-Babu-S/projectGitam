@@ -32,6 +32,9 @@
 .committee-data{
     border-bottom: 1px solid grey;
 }
+.committee-images{
+    overflow-x:auto
+}
 .committee-images table{
     border-spacing: 10px;
     border-collapse: separate;
