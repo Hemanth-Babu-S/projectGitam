@@ -1,0 +1,50 @@
+@import url("nav_sidebar.css");
+@import url("block_gallery.css");
+
+.department-content{
+    padding:1%;
+    font-weight: normal; 
+    font-size: 110%;
+    font-family: "Montserrat-light";
+}
+.dept-overview h4{
+    font-weight: 700;
+}
+.dept-overview p{
+    padding: 0 2%;
+    text-align: left;
+    font-family: "Ubuntu-lite";
+}
+.box-view{
+    padding: 2%; 
+    font-size: 130%;
+    font-weight: 600;
+    font-family: "Montserrat-light";
+}
+
+.files-down{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 2%;
+}
+.files-down button{
+    background-color: #3CCF4E;
+    
+    padding: 8px 20px;
+    border-radius: 10px;
+    margin-top: 1%;
+}
+.files-down button a{
+    color: #fff;
+    text-decoration: none;
+}
+.files-down button a:hover{
+    color: #fff;
+    text-decoration: underline;
+}
+.place-imgs{
+    border: 2px dotted #000;
+}
+.place-imgs img{
+    width: 90%;
+}

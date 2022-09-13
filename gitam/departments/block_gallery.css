@@ -1,0 +1,37 @@
+
+/* Main Body Content */
+.gallery-inner-images{
+    padding: 2%;
+}
+.gallery-inner-images img{
+    width: 100%;
+    padding: 5%;
+    transition: 1s;
+}
+.gallery-inner-images img:hover{
+    width: 100%;
+    padding: 1%;
+    transform: scale(1.2);
+}
+#imageone{
+    display: block;
+}
+#imagetwo{
+    display: none;
+}
+#imagethree{
+    display: none;
+}
+#imagefour{
+    display: none;
+}
+#imagefive{
+    display: none;
+}
+#imagesix{
+    display: none;
+}
+#imageseven{
+    display: none;
+}
+

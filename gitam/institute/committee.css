@@ -1,0 +1,44 @@
+@import url("style.css");
+#executive-committee-content{
+    margin: 0;
+    padding: 0;
+}
+.content-message-executive{
+    padding: 2%;
+}
+.content-sidebar{
+    border-right: 2px solid #000;  
+}
+@media screen and (max-width:950px){
+    .content-sidebar{
+        border-right:none;
+    }
+}
+.content-sidebar ul{
+    list-style: none;  
+}
+.content-sidebar ul a{
+    text-decoration: none; 
+    color: #000;
+}
+.content-sidebar ul a:hover{
+    text-decoration: none;
+    color: blue;
+}
+/* committee-table */
+.committee-table{
+    padding: 2%;
+}
+.committee-images table{
+    border-spacing: 10px;
+    border-collapse: separate;
+}
+.committee-images table td{
+    padding: 2px;
+    text-align: left;
+}
+.committee-images table td img{
+    width: 140px ; 
+}
+
+
